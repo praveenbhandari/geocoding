@@ -47,7 +47,7 @@ String opaddress;
                 else{
                     address(input);
                     Toast.makeText(MainActivity.this,"Searching for address",Toast.LENGTH_LONG).show();
-                    Log.e("","else");
+                    Log.e("else","else");
                 }
 
 
